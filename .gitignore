@@ -1,0 +1,6 @@
+/.vs
+/src/bin/
+
+# dlls
+*.dll
+/src/obj
